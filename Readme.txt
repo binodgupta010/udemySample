@@ -1,4 +1,4 @@
-Udemy sample app
+reUdemy sample app
 
 
 
@@ -9,8 +9,8 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/binodgupta010/udemySample.git
 git push -u origin master
-…or push an existing repository from the command line
+â€¦or push an existing repository from the command line
 git remote add origin https://github.com/binodgupta010/udemySample.git
 git push -u origin master
 
-binod kumar gupta
+binod kumar gupta feature
